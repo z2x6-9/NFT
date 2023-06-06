@@ -1,0 +1,910 @@
+body
+{
+    background-color: #252954;
+}
+div.logo
+{
+    padding: 25px 60px 0px;
+    color: white;
+}
+div.navlink-top
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin: -2.5rem 26rem;
+    font-size: small;
+    padding-right: 3rem;
+    color: white;
+}
+div.create1
+{
+    position: absolute;
+    right: 9.5rem;
+    text-transform: uppercase;
+    border: 1px solid white;
+    width: 100px;
+    height: 30px;
+    padding-left: 40px;
+    margin-top: 0.4rem;
+    padding-top: 12px;
+    border-radius: 11px;
+    color: white;
+}
+div.SignIn
+{
+    position: absolute;
+    right: 5rem;
+    margin-top: 1.3rem;
+    text-transform: uppercase;
+    color: white;
+}
+div.content
+{
+    width: 40rem;
+    padding: 26px 50px;
+    font-size: xxx-large;
+    text-transform: capitalize;
+    color: white;
+}
+p.discription
+{
+    width: 32rem;
+    position: absolute;
+    top: 29.5rem;
+    margin-left: 50px;
+    font-size: large;
+    text-transform: capitalize;
+    color: white;
+}
+div.explore
+{
+    position: absolute;
+    left: 4rem;
+    border: 2px solid #ffffff30;
+    width: 90px;
+    padding-left: 40px;
+    height: 31px;
+    padding-top: 10px;
+    border-radius: 1.5rem;
+    background: linear-gradient(90deg, #a340ff, #3682ff);
+    box-shadow: -20px 0px 30px 0px #a340ff,     20px 0px 30px 0px #3682ff;
+    color: white;
+}
+div.create2
+{
+    position: absolute;
+    left: 15rem;
+    border: 2px solid #fff9f980;
+    width: 90px;
+    padding-left: 40px;
+    height: 31px;
+    padding-top: 10px;
+    border-radius: 1.5rem;
+    color: white;
+}
+img.post
+{
+    width: 19rem;
+    position: absolute;
+    top: 11rem;
+    right: 6.1rem;
+    height: 19rem;
+    border-radius: 20px;
+}
+div.fream
+{
+    width: 21rem;
+    background-color: #ffffff0d;
+    height: 25.3rem;
+    top: 10rem;
+    position: absolute;
+    right: 5rem;
+    border-radius: 30px;
+    border: 2px solid #00000070;
+    box-shadow: -4px 3px 20px 0px #00000061;
+}
+img.aftar
+{
+    position: absolute;
+    width: 3.5rem;
+    top: 31.5rem;
+    right: 22rem;
+}
+div.name
+{
+    position: absolute;
+    right: 19rem;
+    top: 31.7rem;
+    color: white;
+}
+div.watch
+{
+    position: absolute;
+    right: 16.8rem;
+    top: 33.3rem;
+    color: white;
+}
+div.WEAREHERE
+{
+    position: absolute;
+    right: 6rem;
+    top: 31.9rem;
+    color: white;
+    font-size: small;
+}
+div.like
+{
+    position: absolute;
+    right: 6.4rem;
+    top: 33.5rem;
+    color: white;
+}
+img.heart
+{
+    width: 2rem;
+    right: 8rem;
+    position: absolute;
+    top: 33rem;
+}
+div.HotAuctions
+{
+    display: flex;
+    width: 230px;
+    height: 300px;
+    flex-wrap: nowrap;
+    position: absolute;
+    align-content: center;
+    padding-left: 2rem;
+}
+div.HOT
+{
+    top: 10rem;
+    margin-top: 8rem;
+    font-size: xxx-large;
+    color: white;
+    margin-left: 3rem;
+}
+div.ViewAll
+{
+    position: absolute;
+    color: white;
+    right: 3.99rem;
+    top: 45rem;
+    font-size: large;
+}
+img.hot1
+{
+    margin: 0px 50px 0px 20px;
+    border-radius: 1rem;
+}
+img.hot2
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+img.hot3
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+img.hot4
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+div.Lorem
+{
+    color: white;
+    position: absolute;
+    left: 5rem;
+    top: 58.5rem;
+    margin-top: 13rem;
+}
+div.Ipsum1
+{
+    margin: 0px 41px 0px -18px;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 235px;
+    position: absolute;
+}
+div.Ipsum2
+{
+    position: absolute;
+    right: -34.88rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 235px;
+}
+div.Ipsum3
+{
+    position: absolute;
+    right: -55.99rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 235px;
+}
+div.Ipsum4
+{
+    position: absolute;
+    right: -76.5rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 235px;
+}
+div.Lorem2
+{
+    color: white;
+    position: absolute;
+    left: 5rem;
+    top: 58.5rem;
+}
+div.Weth1
+{
+    left: 9rem;
+    position: absolute;
+    width: 7rem;
+    margin-top: 13rem;
+}
+div.Weth2
+{
+    left: 30.5rem;
+    position: absolute;
+    width: 7rem;
+    margin-top: 13rem;
+}
+div.Weth3
+{
+    left: 51rem;
+    position: absolute;
+    width: 7rem;
+    margin-top: 13rem;
+}
+div.Weth4
+{
+    left: 71rem;
+    position: absolute;
+    width: 7rem;
+    margin-top: 13rem;
+}
+div.Lorem3
+{
+    color: #ffffff9c;
+    left: 5rem;
+    top: 58.5rem;
+    margin-top: 15rem;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    font-size: small;
+}
+p.Ends1
+{
+    left: -18px;
+    position: absolute;
+    width: 99px;
+}
+p.Ends2
+{
+    right: -411px;
+    position: absolute;
+}
+p.Ends3
+{
+    right: -749px;
+    position: absolute;
+}
+p.Ends4
+{
+    right: -1076px;
+    position: absolute;
+}
+div.GettingStarted
+{
+    position: absolute;
+    top: 85rem;
+    left: 39%;
+    font-size: xx-large;
+    color: white;
+}
+p.Eu
+{
+    position: absolute;
+    top: 92rem;
+    left: 34%;
+    font-size: large;
+    color: #ffffff80;
+}
+div.GettingFream1
+{
+    position: absolute;
+    width: 8rem;
+    height: 8rem;
+    background-color: #ffffff0d;
+    top: 105rem;
+    left: 10rem;
+    border-radius: 1rem;
+    box-shadow: inset -5px 7px 12px 0px #ffffff80;
+}
+div.GettingFream2
+{
+    position: absolute;
+    width: 8rem;
+    height: 8rem;
+    background-color: #ffffff0d;
+    top: 105rem;
+    left: 26rem;
+    border-radius: 1rem;
+    box-shadow: inset -5px 7px 12px 0px #ffffff80;
+}
+div.GettingFream3
+{
+    position: absolute;
+    width: 8rem;
+    height: 8rem;
+    background-color: #ffffff0d;
+    top: 105rem;
+    left: 46rem;
+    border-radius: 1rem;
+    box-shadow: inset -5px 7px 12px 0px #ffffff80;
+}
+div.GettingFream4
+{
+    position: absolute;
+    width: 8rem;
+    height: 8rem;
+    background-color: #ffffff0d;
+    top: 105rem;
+    left: 65rem;
+    border-radius: 1rem;
+    box-shadow: inset -5px 7px 12px 0px #ffffff80;
+}
+div.GettingImg
+{
+    display: flex;
+    width: 150px;
+    height: 70px;
+    flex-wrap: nowrap;
+    position: absolute;
+    align-content: center;
+    padding-left: 11.4rem;
+    top: 107rem;
+    opacity: 0.6;
+}
+img.verified
+{
+    margin: 0px 183px 0px 0px;
+}
+img.box
+{
+    margin-right: 251px;
+}
+img.photos
+{
+    margin-right: 245px;
+}
+img.startup
+{
+    margin-left: -5px;
+}
+div.GettingDescribtion
+{
+    width: 1083px;
+    position: absolute;
+    padding-left: 11.99rem;
+    top: 113rem;
+    color: #ffffff80;
+}
+div.verifiedDescribtion
+{
+    width: 67px;
+    position: absolute;
+    top: 1rem;
+    left: 180px;
+}
+div.boxDescribtion
+{
+    left: 424px;
+    width: 107px;
+    position: absolute;
+    top: 1rem;
+}
+div.photosDescribtion
+{
+    left: 742px;
+    width: 107px;
+    position: absolute;
+    top: 1rem;
+}
+div.startupDescribtion
+{
+    right: 123px;
+    width: 107px;
+    position: absolute;
+    top: 1rem;
+}
+div.GettingColorFream
+{
+    width: 70rem;
+    height: 9rem;
+    position: absolute;
+    top: 106rem;
+    left: 7rem;
+    z-index: -1;
+    background-image: linear-gradient(45deg, #05bdff, #ff05ce);
+    filter: blur(70px);
+    opacity: 1;
+    animation-name: colorfream;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    -webkit-filter: blur(70px);
+}
+@keyframes colorfream
+{
+    0%
+    {
+        background-position: 0px;
+    }
+    100%
+    {
+        background-position: 210rem;
+        
+    }
+}
+div.colorfream1
+{
+    width: 15rem;
+    height: 15rem;
+    position: absolute;
+    top: 9rem;
+    left: 46rem;
+    z-index: -1;
+    background-color: #05bdff;
+    filter: blur(100px);
+    opacity: 0.4;
+}
+div.colorfream2
+{
+    width: 15rem;
+    height: 15rem;
+    position: absolute;
+    top: 30rem;
+    left: 65rem;
+    z-index: -1;
+    background-color: #ff05e3;
+    filter: blur(100px);
+    opacity: 0.3;
+}
+div.Discover
+{
+    position: absolute;
+    color: white;
+    top: 140rem;
+    font-size: xxx-large;
+    left: 3rem;
+}
+div.DiscoverNav
+{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin: -2.5rem 26rem;
+    color: white;
+    top: 148rem;
+    position: absolute;
+    right: -20rem;
+}
+div.Category
+{
+    margin-right: 50px;
+    margin-top: 3px; 
+}
+div.Cheapest
+{
+    margin-right: 50px;
+    margin-top: 5px;
+}
+div.Newest
+{
+    margin-right: 50px;
+    margin-top: 5px;
+}
+div.Filter
+{
+    background: linear-gradient(270deg, #0f84ff, #f00fff);
+    width: 4rem;
+    padding-left: 3rem;
+    border-radius: 10px;
+    height: 27px;
+    padding-top: 6px;
+   box-shadow: 10px 0px 20px 0 #0f84ff, -10px 0px 20px 0 #f00fff;
+}
+img.up
+{
+    position: absolute;
+    top: 145.66rem;
+    width: 1.2rem;
+    left: 51rem;
+}
+img.down1
+{
+    position: absolute;
+    top: 146.2rem;
+    width: 0.7rem;
+    left: 62.5rem;
+}
+img.down2
+{
+    position: absolute;
+    top: 146.2rem;
+    width: 0.7rem;
+    left: 68.5rem;
+}
+img.filter-png
+{
+    position: absolute;
+    top: 146rem;
+    width: 1rem;
+    left: 72.5rem;
+}
+div.DiscoverImgs
+{
+    display: flex;
+    width: 230px;
+    height: 340px;
+    flex-wrap: nowrap;
+    position: absolute;
+    align-content: center;
+    padding-left: 3.3rem;
+    top: 155rem;
+}
+img.DiscoverImgs1
+{
+    margin: 0px 50px 0px 20px;
+    border-radius: 1rem;
+}
+img.DiscoverImgs2
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+img.DiscoverImgs3
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+img.DiscoverImgs4
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+div.DiscoverImgs2
+{
+    display: flex;
+    width: 230px;
+    height: 340px;
+    flex-wrap: nowrap;
+    position: absolute;
+    align-content: center;
+    padding-left: 4rem;
+    top: 190rem;
+}
+img.DiscoverImgs5
+{
+    margin: 0px 50px 0px 20px;
+    border-radius: 1rem;
+}
+img.DiscoverImgs6
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+img.DiscoverImgs7
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+img.DiscoverImgs8
+{
+    margin: 0px 50px;
+    border-radius: 1rem;
+}
+div.DiscoverDescription1
+{
+    width: 230px;
+    height: 340px;
+    position: absolute;
+    padding-left: 3.3rem;
+    top: 178.5rem;
+    color: white;
+}
+div.Ipsum5
+{
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 210px;
+    position: absolute;
+    left: 4.5rem;  
+}
+div.Ipsum6
+{
+    position: absolute;
+    right: -20.4rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 230px;
+}
+div.Ipsum7
+{
+    position: absolute;
+    right: -40.5rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 218px;
+}
+div.Ipsum8
+{
+    position: absolute;
+    right: -61.5rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 235px;
+}
+div.DiscoverDescription1-1
+{
+    position: absolute;
+    top: 178.5rem;
+    color: white;
+}
+div.Weth5
+{
+    width: 210px;
+    position: absolute;
+    left: 13.5rem; 
+}
+div.Weth6
+{
+    width: 210px;
+    position: absolute;
+    left: 33.99rem;
+}
+div.Weth7
+{
+    height: 30px;
+    width: 210px;
+    position: absolute;
+    left: 54rem;
+}
+div.Weth8
+{
+    width: 210px;
+    position: absolute;
+    left: 75rem;
+}
+div.DiscoverDescription1-2
+{
+    position: absolute;
+    top: 181.5rem;
+    color: #ffffff80;
+    font-size: small;
+}
+div.Ends5
+{
+    width: 210px;
+    position: absolute;
+    left: 4.8rem; 
+}
+div.Ends6
+{
+    width: 210px;
+    position: absolute;
+    left: 23.8rem;
+}
+div.Ends7
+{
+    width: 210px;
+    position: absolute;
+    left: 44.8rem;
+}
+div.Ends8
+{
+    width: 210px;
+    position: absolute;
+    left: 64.8rem;
+}
+div.DiscoverDescription2
+{
+    width: 230px;
+    height: 340px;
+    position: absolute;
+    padding-left: 3.3rem;
+    top: 213.5rem;
+    color: white;
+}
+div.Ipsum9
+{
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 207px;
+    position: absolute;
+    left: 5.5rem;
+}
+div.Ipsum10
+{
+    position: absolute;
+    right: -21rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 218px;
+}
+div.Ipsum11
+{
+    position: absolute;
+    right: -41.78rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 230px;
+}
+div.Ipsum12
+{
+    position: absolute;
+    right: -61.8rem;
+    border-bottom: 1px solid white;
+    height: 30px;
+    width: 222px;
+}
+div.DiscoverDescription2-1
+{
+    width: 230px;
+    height: 340px;
+    position: absolute;
+    padding-left: 3.3rem;
+    top: 213.5rem;
+    color: white;
+}
+div.Weth9
+{
+    width: 218px;
+    position: absolute;
+    left: 14.95rem;
+}
+div.Weth10
+{
+    width: 218px;
+    position: absolute;
+    left: 34.55rem;
+}
+div.Weth11
+{
+    width: 218px;
+    position: absolute;
+    left: 55.42rem;
+}
+div.Weth12
+{
+    width: 218px;
+    position: absolute;
+    left: 74.99rem;
+}
+div.DiscoverDescription2-2
+{
+    position: absolute;
+    top: 216rem;
+    color: #ffffff80;
+    font-size: small;
+}
+div.Ends9
+{
+    width: 210px;
+    position: absolute;
+    left: 5.51rem;
+}
+div.Ends10
+{
+    width: 210px;
+    position: absolute;
+    left: 25.05rem;
+}
+div.Ends11
+{
+    width: 210px;
+    position: absolute;
+    left: 45.1rem;
+}
+div.Ends12
+{
+    width: 210px;
+    position: absolute;
+    left: 65.6rem;
+}
+footer
+{
+    position: absolute;
+    top: 245rem;
+    color: white;
+}
+div.conteantFooter
+{
+    font-size: xx-large;
+    position: absolute;
+    left: 3rem;
+    width: 41rem;
+    text-transform: capitalize;
+}
+div.lincks
+{
+    display: flex;
+    position: absolute;
+    left: 53rem;
+    font-size: large;
+    top: 2.5rem;
+}
+div.Marketplace
+{
+    margin: 0 3rem;
+}
+div.Company
+{
+    margin: 0 3rem;
+}
+div.Contact
+{
+    margin: 0 3rem;
+}
+div.hrr
+{
+    position: absolute;
+    width: 83.5rem;
+    height: 0.3rem;
+    background-color: white;
+    -webkit-box-reflect: below 1px linear-gradient(rgba(0, 0, 0, 0.555),transparent);
+    border-radius: 1rem;
+    top: 18rem;
+}
+div.hrr::before
+{
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg,#FFFE00,rgb(247, 0, 255),rgb(0, 99, 248),rgb(255, 0, 212),rgb(0, 99, 248));
+    background-size: 200%;
+animation-name: animite;
+animation-duration: 5s;
+animation-timing-function: ease;
+animation-iteration-count: infinite;
+}
+div.hrr::after{
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg,#FFFE00),rgb(247, 0, 255),rgb(0, 99, 248),rgb(255, 0, 212),rgb(0, 99, 248);
+    background-size: 200%;
+    animation-name: animite;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    filter:blur(10px);
+    -webkit-filter:blur(10px);
+}
+@keyframes animite
+{
+    0%
+    {
+        background-position: 0px;
+    }
+    100%
+    {
+        background-position: 500%;
+        
+    }
+}
+div.Copyright
+{
+    position: absolute;
+    top: 20rem;
+    left: 73rem;
+    font-size: small;
+    width: 8rem;
+}
